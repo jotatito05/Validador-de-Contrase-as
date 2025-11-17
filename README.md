@@ -176,7 +176,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## Autor
 
-Creado por **Jotatito05** como proyecto educativo para demostrar buenas prácticas en validación de contraseñas.
+Creado por **Jotatito05** como proyecto educativo para demostrar buenas conocimientos en Python y ciberseguridad.
 
 ---
 
